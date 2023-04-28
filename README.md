@@ -9,7 +9,7 @@ Usage
 
 HotkeyHook
 
-Hook to set system wide hotkeys. This project was created to switch active winow between two application (uses F11 & F12 keys)
+Hook to set system wide hotkeys. This project was created to switch active window between two applications (uses F11 & F12 keys)
 
 Usage 
  SetHook(Handle1, Handle2: HWND); => install hook that switches beetween two applications(F11 & F12)

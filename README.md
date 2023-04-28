@@ -2,7 +2,7 @@
 
 FocusHook
 
-Recieves HWND of last activated windows
+Recieves HWND of last activated window
 
 Usage
  SetHook(hWnd: HWND) => install hook that sends WM_USER + 1 message to target HWND. wParam of this message contains HWND of activated window
